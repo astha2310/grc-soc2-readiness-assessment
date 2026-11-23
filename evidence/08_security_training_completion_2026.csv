@@ -1,0 +1,121 @@
+employee,department,hire_date,annual_training_2026,completed_on
+Jordan Morales,Sales,2022-04-11,Completed,2026-03-04
+Dana Ortiz,IT & Security,2022-02-18,Completed,2026-09-21
+Ravi Menon,Engineering,2024-04-18,Completed,2026-05-09
+Priya Shah,Marketing,2021-11-27,Completed,2026-08-23
+Umar Carter,Engineering,2021-03-04,Completed,2026-08-09
+Zoe Chen,Engineering,2022-11-11,Completed,2026-04-25
+Elena Petrov,Engineering,2024-01-06,Completed,2026-03-03
+Grace Torres,Engineering,2022-12-02,Completed,2026-01-24
+Lena Chen,Engineering,2026-08-03,Not started,
+Gabe Rao,Engineering,2026-08-17,Not started,
+Carla Haddad,Engineering,2026-09-08,Not started,
+Bianca Grant,Engineering,2026-09-21,Not started,
+Elena Alves,Engineering,2026-10-12,Not started,
+Farid Lopez,Engineering,2026-11-09,Not started,
+Bianca Chen,Engineering,2026-11-16,Not started,
+Kai Tanaka,Engineering,2022-10-15,Completed,2026-09-06
+Olivia Fox,Engineering,2021-04-17,Completed,2026-01-24
+David Nguyen,Engineering,2024-05-30,Completed,2026-10-06
+Lena Murphy,Engineering,2019-01-08,Completed,2026-10-04
+David Brooks,Engineering,2024-05-17,Completed,2026-03-13
+Carla Lopez,Engineering,2022-11-10,Completed,2026-05-12
+Isabel Price,Engineering,2019-12-14,Completed,2026-03-09
+Adam Carter,Engineering,2020-05-06,Not started,
+Ivan Tanaka,Engineering,2023-05-11,Completed,2026-04-17
+Kai Singh,Engineering,2021-03-27,Completed,2026-03-22
+Jess Kim,Engineering,2024-05-12,Completed,2026-05-27
+Grace Fox,Engineering,2021-01-01,Completed,2026-10-16
+Kai Patel,Engineering,2023-11-13,Completed,2026-09-25
+Ximena Lee,Engineering,2022-09-23,Completed,2026-03-01
+Jess Novak,Engineering,2019-12-22,Completed,2026-04-18
+Kai Chen,Engineering,2023-06-10,Completed,2026-02-21
+Nadia Rao,Engineering,2024-03-12,Completed,2026-01-23
+Fatima Petrov,Engineering,2023-07-03,Completed,2026-05-28
+Bianca Farouk,Engineering,2019-12-14,Not started,
+Dina Fox,Engineering,2020-10-12,Completed,2026-02-18
+Dina Torres,Engineering,2020-11-27,Completed,2026-03-18
+Tara Alves,Sales,2020-06-04,Completed,2026-07-07
+Leo Alves,Sales,2019-04-23,Completed,2026-08-16
+Farid Nguyen,Sales,2020-09-11,Completed,2026-06-01
+Tara Ito,Sales,2024-03-21,Completed,2026-02-06
+Fatima Ivanova,Sales,2020-08-21,Completed,2026-05-17
+Chris Price,Sales,2024-04-26,Completed,2026-04-07
+Marco Novak,Sales,2022-12-06,Completed,2026-04-17
+Hiro Bell,Sales,2020-09-30,Completed,2026-06-23
+Adam Walsh,Sales,2025-02-25,Completed,2026-10-13
+Vera Carter,Sales,2025-02-23,Completed,2026-06-12
+Fatima Grant,Sales,2020-06-20,Completed,2026-04-16
+Carla Novak,Sales,2019-03-29,Completed,2026-01-24
+Jess Nguyen,Sales,2019-02-28,Completed,2026-02-02
+Umar Ivanova,Sales,2020-02-25,Not started,
+Wes Moretti,Sales,2024-11-26,Completed,2026-04-22
+Fatima Fox,Sales,2020-07-24,Completed,2026-05-20
+Dina Novak,Sales,2023-11-12,Completed,2026-03-10
+Farid Diaz,Sales,2021-03-08,Completed,2026-08-24
+Ethan Novak,Sales,2021-05-14,Completed,2026-10-21
+David Singh,Sales,2019-04-25,Completed,2026-08-04
+Kai Young,Sales,2021-10-28,Completed,2026-06-21
+Sam Aziz,Sales,2021-05-21,Completed,2026-05-12
+Wes Okafor,Customer Success,2022-04-14,Completed,2026-03-27
+Dina Hall,Customer Success,2024-08-14,Completed,2026-07-11
+Karen Khan,Customer Success,2021-09-12,Completed,2026-03-22
+Hiro Hassan,Customer Success,2022-08-28,Not started,
+David Rao,Customer Success,2021-11-28,Completed,2026-05-25
+Sam Ruiz,Customer Success,2025-02-07,Completed,2026-02-12
+Pedro Murphy,Customer Success,2023-09-13,Not started,
+Zoe Hassan,Customer Success,2020-06-20,Completed,2026-10-01
+Farid Walsh,Customer Success,2019-09-07,Completed,2026-06-08
+Chris Murphy,Customer Success,2022-12-20,Completed,2026-06-14
+Jess Diaz,Customer Success,2024-02-20,Not started,
+Isabel Rossi,Customer Success,2025-07-17,Completed,2026-06-01
+Adam Hall,Customer Success,2024-10-17,Completed,2026-05-29
+Yusuf Brooks,Customer Success,2023-09-19,Completed,2026-07-02
+Jamal Haddad,Customer Success,2024-08-16,Completed,2026-10-22
+Leo Carter,Customer Success,2020-06-19,Completed,2026-02-01
+Olivia Brooks,Customer Success,2024-12-18,Completed,2026-06-22
+Aisha Hassan,Customer Success,2020-09-13,Completed,2026-04-18
+Lena Kim,Product,2024-11-14,Not started,
+Quinn Price,Product,2024-09-22,Completed,2026-09-15
+Aisha Carter,Product,2019-03-18,Completed,2026-04-27
+Adam Petrov,Product,2023-12-08,Completed,2026-01-17
+Ximena Khan,Product,2021-01-20,Not started,
+Kai Farouk,Product,2019-01-17,Completed,2026-03-29
+Isabel Bell,Product,2020-09-05,Completed,2026-02-05
+Nadia Chen,Product,2020-12-06,Completed,2026-06-17
+Dina Lopez,Product,2020-08-02,Completed,2026-05-14
+Zoe Murphy,Product,2024-04-23,Not started,
+Grace Ward,Product,2020-05-07,Completed,2026-04-04
+Maya Novak,Product,2025-03-29,Completed,2026-08-02
+Nikhil Young,Marketing,2019-09-10,Completed,2026-09-25
+Karen Tanaka,Marketing,2022-08-28,Completed,2026-03-30
+Vera Moretti,Marketing,2024-10-24,Not started,
+David Lee,Marketing,2024-12-13,Completed,2026-10-04
+Aisha Nguyen,Marketing,2025-03-25,Completed,2026-09-30
+Jamal Petrov,Marketing,2024-05-30,Completed,2026-10-10
+Nadia Okafor,Marketing,2020-03-10,Completed,2026-01-23
+Elena Rao,Marketing,2025-04-13,Completed,2026-05-12
+Nadia Aziz,Marketing,2019-08-21,Not started,
+Jamal Stone,Marketing,2021-10-14,Not started,
+Ximena Ward,Finance,2021-02-22,Completed,2026-03-09
+Hiro Tanaka,Finance,2022-02-08,Completed,2026-09-03
+Fatima Kaur,Finance,2019-06-22,Completed,2026-01-24
+Ethan Ward,Finance,2020-02-05,Completed,2026-05-20
+Tara Haddad,Finance,2024-09-10,Completed,2026-01-16
+Jamal Lee,Finance,2024-01-27,Completed,2026-02-19
+Vera Stone,Finance,2025-04-19,Completed,2026-09-29
+Ethan Walsh,Finance,2019-04-25,Completed,2026-03-03
+Hana Okafor,People,2019-09-17,Completed,2026-02-17
+Nikhil Ito,People,2023-12-21,Completed,2026-09-14
+Ximena Carter,People,2022-08-26,Completed,2026-02-22
+Ivan Okafor,People,2024-09-01,Completed,2026-05-15
+Hana Singh,People,2024-09-28,Completed,2026-04-30
+Farid Stone,People,2021-03-27,Completed,2026-09-07
+Hana Torres,IT & Security,2022-02-09,Completed,2026-07-29
+Karen Hall,IT & Security,2024-01-27,Not started,
+Olivia Petrov,IT & Security,2024-09-12,Completed,2026-06-11
+Ivan Bell,IT & Security,2024-12-24,Completed,2026-04-26
+Vera Brooks,IT & Security,2024-05-12,Not started,
+Nadia Patel,IT & Security,2024-09-10,Completed,2026-05-25
+Olivia Patel,Engineering,2021-10-11,Completed,2026-06-19
+Hana Hassan,Engineering,2024-11-13,Completed,2026-03-24

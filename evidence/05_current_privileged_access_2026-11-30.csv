@@ -1,0 +1,29 @@
+user,system,access_level,account_status,last_login
+k.brandt@brightline.example,AWS Production Console,PowerUser,Active,2026-10-29
+r.menon@brightline.example,AWS Production Console,PowerUser,Active,2026-11-26
+u.carter@brightline.example,AWS Production Console,PowerUser,Active,2026-11-21
+z.chen@brightline.example,AWS Production Console,PowerUser,Active,2026-11-25
+e.petrov@brightline.example,AWS Production Console,PowerUser,Active,2026-11-20
+g.torres@brightline.example,AWS Production Console,PowerUser,Active,2026-11-24
+l.chen@brightline.example,AWS Production Console,PowerUser,Active,2026-11-19
+g.rao@brightline.example,AWS Production Console,PowerUser,Active,2026-11-24
+c.haddad@brightline.example,AWS Production Console,PowerUser,Active,2026-11-25
+d.ortiz@brightline.example,AWS Production Console,Administrator,Active,2026-11-23
+k.brandt@brightline.example,GitHub Organization,Maintainer,Active,2026-10-14
+r.menon@brightline.example,GitHub Organization,Owner,Active,2026-11-28
+u.carter@brightline.example,GitHub Organization,Maintainer,Active,2026-11-21
+z.chen@brightline.example,GitHub Organization,Maintainer,Active,2026-11-24
+e.petrov@brightline.example,GitHub Organization,Maintainer,Active,2026-11-19
+g.torres@brightline.example,GitHub Organization,Maintainer,Active,2026-11-21
+l.chen@brightline.example,GitHub Organization,Maintainer,Active,2026-11-28
+g.rao@brightline.example,GitHub Organization,Maintainer,Active,2026-11-22
+c.haddad@brightline.example,GitHub Organization,Maintainer,Active,2026-11-19
+b.grant@brightline.example,GitHub Organization,Maintainer,Active,2026-11-20
+e.alves@brightline.example,GitHub Organization,Maintainer,Active,2026-11-29
+d.ortiz@brightline.example,Entra ID,Global Administrator,Active,2026-11-28
+h.torres@brightline.example,Entra ID,User Administrator,Active,2026-11-28
+k.hall@brightline.example,Entra ID,User Administrator,Active,2026-11-23
+l.tran@brightline.example,NetLedger (Finance system),Approver,Active,2026-11-05
+x.ward@brightline.example,NetLedger (Finance system),Approver,Active,2026-11-22
+h.tanaka@brightline.example,NetLedger (Finance system),Approver,Active,2026-11-20
+f.kaur@brightline.example,NetLedger (Finance system),Approver,Active,2026-11-25

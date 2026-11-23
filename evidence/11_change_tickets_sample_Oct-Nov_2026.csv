@@ -1,0 +1,16 @@
+change_id,summary,change_type,author,approver,approved_at,deployed_at
+CHG-1040,Scale worker pool,Standard,b.okafor,r.menon,2026-10-01 10:10,2026-10-02 14:00
+CHG-1041,Add audit log field,Standard,a.reed,r.menon,2026-10-05 10:11,2026-10-06 14:00
+CHG-1042,Release v4.2.0,Standard,c.silva,d.chen,2026-10-09 10:12,2026-10-10 14:00
+CHG-1043,Update payment webhook retry logic,Standard,r.menon,e.novak,2026-10-15 09:30,2026-10-14 16:20
+CHG-1044,Feature flag rollout,Standard,r.menon,d.chen,2026-10-17 10:14,2026-10-18 14:00
+CHG-1045,Upgrade library dependencies,Standard,d.chen,b.okafor,2026-10-21 10:15,2026-10-22 14:00
+CHG-1046,Update TLS certificate,Standard,b.okafor,e.novak,2026-10-25 10:16,2026-10-26 14:00
+CHG-1047,Hotfix: block credential-stuffing traffic on login API,Emergency,r.menon,CTO (m.alvarez),2026-10-29 08:40,2026-10-29 02:15
+CHG-1048,Upgrade library dependencies,Standard,r.menon,a.reed,2026-11-02 10:18,2026-11-03 14:00
+CHG-1049,Update TLS certificate,Standard,d.chen,r.menon,2026-11-06 10:19,2026-11-07 14:00
+CHG-1050,Upgrade library dependencies,Standard,c.silva,b.okafor,2026-11-10 10:20,2026-11-11 14:00
+CHG-1051,Change database connection pool settings,Standard,b.okafor,b.okafor,2026-11-14 10:21,2026-11-15 14:00
+CHG-1052,Add audit log field,Standard,r.menon,c.silva,2026-11-18 10:22,2026-11-19 14:00
+CHG-1053,Scale worker pool,Standard,b.okafor,a.reed,2026-11-22 10:23,2026-11-23 14:00
+CHG-1054,Upgrade library dependencies,Standard,c.silva,d.chen,2026-11-26 10:24,2026-11-27 14:00

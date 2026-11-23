@@ -1,0 +1,8 @@
+vendor,service,data_access,criticality,onboarded,last_risk_assessment,soc2_report_period_end,notes
+CloudNest,Cloud hosting (production),Customer data,Critical,2020-03-01,2026-04-22,2026-03-31,
+PayLoop,Payment processing,Customer billing data,Critical,2021-07-15,2025-08-10,2024-09-30,Requested updated report 2026-10-02; no response yet
+MailRelay,Transactional email delivery,Customer names and emails,High,2023-11-20,,,
+SupportDesk,Customer support ticketing,Customer data in tickets,High,2022-05-09,2026-02-17,2025-12-31,
+HireFlow,HR and payroll,Employee personal data,High,2021-01-11,2026-03-03,2026-01-31,
+DataPipe,Product analytics,Customer usage data (pseudonymized IDs + emails),Medium,2026-08-25,,,Onboarded by Product team for Q4 launch
+SnackBox,Office snack delivery,None,Low,2024-02-01,,,No system access

@@ -1,0 +1,5 @@
+campaign,date_sent,theme,recipients,clicked,click_rate,reported,report_rate
+Q1,2026-02-10,Package delivery notice,118,22,19%,31,26%
+Q2,2026-05-12,Payroll update,118,17,14%,40,34%
+Q3,2026-08-18,Shared document,118,13,11%,49,42%
+Q4,2026-11-10,IT password expiry,118,11,9%,55,47%
